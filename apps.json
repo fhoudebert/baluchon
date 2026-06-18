@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Transcribe",
+    "exec_linux": "transcribe/transcribe",
+    "exec_windows": "transcribe/transcribe.exe",
+    "icon": "transcribe/assets/icon.png",
+    "description": "Transcription et traduction audio",
+    "setup_script": "transcribe/setupPython_and_download.sh"
+  },
+  {
+    "name": "Truchement",
+    "exec_linux": "transcribe/truchement",
+    "exec_windows": "transcribe/truchement.exe",
+    "icon": "transcribe/assets/dico.png",
+    "description": "Traductions et définitions",
+    "setup_script": "transcribe/setupPython_and_download.sh"
+  }
+]
