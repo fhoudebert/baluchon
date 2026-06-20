@@ -6,7 +6,7 @@ Interface graphique multiplateforme (Linux / Windows) pour gérer les applicatio
 
 The development of this project has been moved to:
 
-👉 [https://codeberg.org/fhoudebert/download-assistant](https://codeberg.org/fhoudebert/baluchon)
+👉 [https://codeberg.org/fhoudebert/baluchon](https://codeberg.org/fhoudebert/baluchon)
 
 This repository is kept only for:
 - the release history
@@ -17,7 +17,7 @@ Please refer to the new repository for contributions and the latest source code.
 
 Le développement de ce projet a été déplacé vers :
 
-👉 [https://codeberg.org/fhoudebert/download-assistant](https://codeberg.org/fhoudebert/baluchon)
+👉 [https://codeberg.org/fhoudebert/baluchon](https://codeberg.org/fhoudebert/baluchon)
 
 Ce dépôt est conservé uniquement pour :
 - l’historique des versions publiées
